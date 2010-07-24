@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="TFSUrlPinger.asmx.cs" Class="TFSUrlPinger.TFSUrlPinger" %>
